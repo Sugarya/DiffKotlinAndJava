@@ -2,6 +2,7 @@ package com.sugarya.preface;
 
 
 public class Bean {
+
     private final String name;
     private final int age;
 
